@@ -1,0 +1,56 @@
+
+html,body{height:100%;}
+body{background:#ffffff; background-image:url('img/sfondo.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;}
+
+h1{margin-bottom:0px; color: white; text-shadow: 4px 4px 2px black;}
+h4{margin-top:0px;color: #ff8800; text-shadow: 2px 2px black;}
+
+.header{background: #333}
+.header__logo{color: #fff; float:left; display: block; padding:10px;}
+.header__menù{float:right;margin:0; padding:0;}
+.header__image{float:left;}
+.header__menù__item{display: inline-block;}
+.header__menù__item a{color: #fff; display: block; padding:10px;}
+.header__icon-bar{display: block;float: right;padding:10px:display: none;}
+.header__icon-bar span{display: block;height:3px width: 10px;background: #fff; margin-bottom: 5px;}
+
+
+.cover{height:70%;border:2 px solid orange;}
+div.centrato{text-align:center; position:relative;}
+div.centrato div{width:670px; position:relative;text-align:justify;margin:auto; 
+padding:10px; background-color: khaki;
+padding-bottom:25px; border:1px solid black;}
+div.centrato p {text-align:justify;}
+
+.footer {background-color: #333; padding: 1px; color: #fff;}
+
+
+
+
+ 
+ ul{
+ margin-left: 0px;}
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+* html .clearfix             { zoom: 1; } /* IE6 */
+*:first-child+html .clearfix { zoom: 1; } /* IE7 */
+
+
+
+
+
+
+
+
+
+
+{ }
